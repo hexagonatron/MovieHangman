@@ -1,0 +1,19 @@
+{
+  "name": "letter_game",
+  "version": "1.0.0",
+  "description": "A letter guessing game",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ben Fawcett",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^25.4.0"
+  }
+}
