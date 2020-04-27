@@ -1,4 +1,4 @@
-# Movie guessing game =D
+# Movie Hangman
 
 To install
 ````
