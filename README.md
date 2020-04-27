@@ -2,6 +2,7 @@
 
 To install
 ````
+git clone https://github.com/hexagonatron/MovieHangman.git
 npm install
 
 ````
